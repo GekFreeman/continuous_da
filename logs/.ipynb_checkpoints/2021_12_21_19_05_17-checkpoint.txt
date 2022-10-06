@@ -1,0 +1,259 @@
+libibverbs: Warning: couldn't open config directory '/etc/libibverbs.d'.
+libibverbs: Warning: no userspace device-specific driver found for /sys/class/infiniband_verbs/uverbs1
+libibverbs: Warning: no userspace device-specific driver found for /sys/class/infiniband_verbs/uverbs0
+/userhome/anaconda/envs/pytorch/lib/python3.7/site-packages/torch/nn/parallel/_functions.py:64: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.
+  warnings.warn('Was asked to gather along dimension 0, but all '
+webcam Accuracy: 432/795 (54.3396%)
+
+amazon Accuracy: 795/2817 (28.2215%)
+
+webcam Accuracy: 611/795 (76.8553%)
+
+amazon Accuracy: 1315/2817 (46.6809%)
+
+webcam Accuracy: 729/795 (91.6981%)
+
+amazon Accuracy: 1487/2817 (52.7867%)
+
+webcam Accuracy: 766/795 (96.3522%)
+
+amazon Accuracy: 1579/2817 (56.0525%)
+
+webcam Accuracy: 774/795 (97.3585%)
+
+amazon Accuracy: 1675/2817 (59.4604%)
+
+webcam Accuracy: 782/795 (98.3648%)
+
+amazon Accuracy: 1728/2817 (61.3419%)
+
+webcam Accuracy: 789/795 (99.2453%)
+
+amazon Accuracy: 1781/2817 (63.2233%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1808/2817 (64.1818%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1820/2817 (64.6077%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1839/2817 (65.2822%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1849/2817 (65.6372%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1837/2817 (65.2112%)
+
+webcam Accuracy: 794/795 (99.8742%)
+
+amazon Accuracy: 1851/2817 (65.7082%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1844/2817 (65.4597%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1851/2817 (65.7082%)
+
+webcam Accuracy: 794/795 (99.8742%)
+
+amazon Accuracy: 1852/2817 (65.7437%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1865/2817 (66.2052%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1855/2817 (65.8502%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1871/2817 (66.4182%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1880/2817 (66.7377%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1877/2817 (66.6312%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1862/2817 (66.0987%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1878/2817 (66.6667%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1873/2817 (66.4892%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1894/2817 (67.2346%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1895/2817 (67.2701%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1881/2817 (66.7732%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1880/2817 (66.7377%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1889/2817 (67.0572%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1891/2817 (67.1282%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1879/2817 (66.7022%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1896/2817 (67.3056%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1904/2817 (67.5896%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1897/2817 (67.3411%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1904/2817 (67.5896%)
+
+webcam Accuracy: 794/795 (99.8742%)
+
+amazon Accuracy: 1910/2817 (67.8026%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1912/2817 (67.8736%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1911/2817 (67.8381%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1903/2817 (67.5541%)
+
+webcam Accuracy: 794/795 (99.8742%)
+
+amazon Accuracy: 1886/2817 (66.9507%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1900/2817 (67.4476%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1906/2817 (67.6606%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1911/2817 (67.8381%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1905/2817 (67.6251%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1904/2817 (67.5896%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1910/2817 (67.8026%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1911/2817 (67.8381%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1910/2817 (67.8026%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1918/2817 (68.0866%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1918/2817 (68.0866%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1911/2817 (67.8381%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1917/2817 (68.0511%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1918/2817 (68.0866%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1911/2817 (67.8381%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1918/2817 (68.0866%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1910/2817 (67.8026%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1929/2817 (68.4771%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1919/2817 (68.1221%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1931/2817 (68.5481%)
+
+webcam Accuracy: 795/795 (100.0000%)
+
+amazon Accuracy: 1912/2817 (67.8736%)
+
+Traceback (most recent call last):
+  File "train_da.py", line 807, in <module>
+    train(config)
+  File "train_da.py", line 250, in train
+    model, optimizer, lr_scheduler, start_epoch = load_model(config, config['load_pretrain'], inner_args, keep_on=False, name=f"{exp}.pth")
+  File "train_da.py", line 168, in load_model
+    ckpt = torch.load(load_path)
+  File "/userhome/anaconda/envs/pytorch/lib/python3.7/site-packages/torch/serialization.py", line 581, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/userhome/anaconda/envs/pytorch/lib/python3.7/site-packages/torch/serialization.py", line 230, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/userhome/anaconda/envs/pytorch/lib/python3.7/site-packages/torch/serialization.py", line 211, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: '/userhome/chengyl/UDA/multi-source/ISDA/Reproduce/Ablation/I_15_IAO_60/save/resnet50_mini-imagenet/w-ml-83-webcam-dslr-Rep-wGate-Final.pth'

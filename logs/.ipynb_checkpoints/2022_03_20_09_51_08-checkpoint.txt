@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "train_da.py", line 18, in <module>
+    import models
+  File "/userhome/TNNLS/ours_barlow_rep_clef_4/models/__init__.py", line 1, in <module>
+    from .daml_c import make
+  File "/userhome/TNNLS/ours_barlow_rep_clef_4/models/daml_c.py", line 296
+    def forward(self, trn_data, tst_data,inner_args, meta_train, mark=1, trn_flag=0, on_lbd=0.0004, scale=5\uff0c mmd_alpha=0.01):
+                                                                                                           ^
+SyntaxError: invalid character in identifier

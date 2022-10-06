@@ -1,1 +1,2 @@
-# continuous_da
+# How to run
+bash train.sh
